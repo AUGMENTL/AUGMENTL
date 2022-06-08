@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/f3MCvwx.png" width="540" title="Augmentl Logo" />
+<img src="https://i.imgur.com/f3MCvwx.png" title="Augmentl Logo" />
 
 **AUGMENTL** is a novel bi-directional brain-computer interface (BCI) and development platform for augmented cognition.
 
